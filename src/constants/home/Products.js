@@ -1,7 +1,7 @@
 export const Products = [   
    
     {
-        img:"https://admin.mochishoes.com/product/31-7099/250/31-7099M11.jpg",
+        img:"img-1.webp",
         name:"Mochi",
         title:"Women Black Casual Pumps",
         price:  2290,
