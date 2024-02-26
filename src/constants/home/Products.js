@@ -1,7 +1,7 @@
 export const Products = [   
    
     {
-        img:"img-1.webp",
+        img:"img-1",
         name:"Mochi",
         title:"Women Black Casual Pumps",
         price:  2290,
